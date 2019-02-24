@@ -1,3 +1,6 @@
 [submodule "themes/hermit"]
 	path = site/themes/hermit
 	url = https://github.com/Track3/hermit.git
+[submodule "site/themes/sustain"]
+	path = site/themes/sustain
+	url = https://github.com/nurlansu/hugo-sustain.git

@@ -53,15 +53,19 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
-
-  [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/"
+    url = "https://twitter.com/IAmJerdog"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/jerdog"
+
+  [[params.social]]
+    name = "gitlab"
+    url = "https://gitlab.com/jerdog"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/jeremymeiss"
 
 [menu]
 
